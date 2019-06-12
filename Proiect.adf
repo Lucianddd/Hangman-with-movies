@@ -1,0 +1,81 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=Proiect
+
+[Library]
+Proiect=.\Proiect\Proiect.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\NBitAdder\NBItAdder\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Proiect=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=rc_adder|structural|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Main.vhd=-1
+/BCD_DECODER.vhd=-1
+/ADDER.vhd=-1
+/Divider.vhd=-1
+/Multiplexer.vhd=-1
+/Counter2Bit.vhd=-1
+/Decoder2Bits.vhd=-1
+/BCD_to_7SEGMENT.vhd=-1
+/MUX_OPERAT.vhd=-1
+/Complement2.vhd=-1
+/Inv_COMPLEMENT_2.vhd=-1
+/SUBSTRACTOR.vhd=-1
+/BOOTH.vhd=-1
+/Div_NUMBER.vhd=-1
+/holdRegister.vhd=-1
+
+[Files.Data]
+.\src\Main.vhd=VHDL Source Code
+.\src\BCD_DECODER.vhd=VHDL Source Code
+.\src\ADDER.vhd=VHDL Source Code
+.\src\Divider.vhd=VHDL Source Code
+.\src\Multiplexer.vhd=VHDL Source Code
+.\src\Counter2Bit.vhd=VHDL Source Code
+.\src\Decoder2Bits.vhd=VHDL Source Code
+.\src\BCD_to_7SEGMENT.vhd=VHDL Source Code
+.\src\MUX_OPERAT.vhd=VHDL Source Code
+.\src\Complement2.vhd=VHDL Source Code
+.\src\Inv_COMPLEMENT_2.vhd=VHDL Source Code
+.\src\SUBSTRACTOR.vhd=VHDL Source Code
+.\src\BOOTH.vhd=VHDL Source Code
+.\src\Div_NUMBER.vhd=VHDL Source Code
+.\src\holdRegister.vhd=VHDL Source Code
+
